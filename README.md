@@ -27,4 +27,3 @@ I'am a MERN stack developer! I build dynamic web applications using React, Node.
 
 ![](https://github-profile-trophy.vercel.app/?username=sumanadithan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=sumanadithan&theme=dark&hide_border=false)
