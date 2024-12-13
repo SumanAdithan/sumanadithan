@@ -17,7 +17,7 @@ I'am a MERN stack developer! I build dynamic web applications using React, Node.
 </div>
 <br>
 <div style='display:flex; justify-content:center'>
-<img style='width:400px;' src='https://streak-stats.demolab.com/?user=sumanadithan&theme=dark'/>
+<img style='width:400px;' src='https://github-readme-streak-stats.herokuapp.com/?user=antonfrancisjeejo'/>
 </div>
 <div>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=sumanadithan.sumanadithan&left_text=Profile%20Views"  />
