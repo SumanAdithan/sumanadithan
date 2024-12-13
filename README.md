@@ -17,7 +17,7 @@ I'am a MERN stack developer! I build dynamic web applications using React, Node.
 </div>
 <br>
 <div style='display:flex; justify-content:center'>
-<img style='width:400px;' src='https://github-readme-streak-stats.herokuapp.com/?user=sumanadithan&theme=dark&hide_border=false'/>
+<img style='width:400px;' src='https://streak-stats.demolab.com/?user=sumanadithan&theme=dark'/>
 </div>
 <div>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=sumanadithan.sumanadithan&left_text=Profile%20Views"  />
@@ -26,5 +26,3 @@ I'am a MERN stack developer! I build dynamic web applications using React, Node.
 ### GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=sumanadithan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=antonfrancisjeejo)
