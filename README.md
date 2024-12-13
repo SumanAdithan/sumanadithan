@@ -24,7 +24,6 @@ I'am a MERN stack developer! I build dynamic web applications using React, Node.
 <img style='width:400px' src='https://github-readme-stats.vercel.app/api?username=sumanadithan&theme=dark&hide_border=false&include_all_commits=false&count_private=false'/>
 <img style='width:400px; height:170px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=sumanadithan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact'/>
 </p>
-<br>
 <p align="center">
 <img style='width:400px;' src='https://github-readme-streak-stats-salesp07.vercel.app/?user=sumanadithan&theme=dark'/>
 </p>
