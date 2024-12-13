@@ -3,6 +3,8 @@
 [![Github](https://img.shields.io/github/followers/sumanadithan?label=Follow&style=social)](https://github.com/sumanadithan)
 [![Linkedin](https://img.shields.io/badge/Suman%20Adithan-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/suman-99334825b/)](https://www.linkedin.com/in/suman-99334825b//)
 
+<img src="./img/profile.png" width="100"/>
+
 ## About Me
 
 I'am a MERN stack developer! I build dynamic web applications using React, Node.js, Express.js, and MongoDB. Always learning and exploring new technologies to create scalable solutions. Let’s connect and collaborate! 🚀
