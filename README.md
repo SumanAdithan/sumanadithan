@@ -9,6 +9,10 @@
 
 I'am a MERN stack developer! I build dynamic web applications using React, Node.js, Express.js, and MongoDB. Always learning and exploring new technologies to create scalable solutions. Let’s connect and collaborate! 🚀
 
+### "If I have 6 hours to cut a tree, I will spend the first 4 hours sharpening my ax"! 🔥
+
+![coding](https://tenor.com/view/ninjala-jane-hacker-hacking-computer-gif-20337624.gif)
+
 ## Stack I work with
 
 [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,ts,react,nodejs,express,mongodb,redux,zustand,reactquery,tailwind,sass,vite,vitest,figma,git)](https://skillicons.dev)
