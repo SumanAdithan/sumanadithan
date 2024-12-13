@@ -9,6 +9,9 @@ I'am a MERN stack developer! I build dynamic web applications using React, Node.
 
 ## Stack I work with
 
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,ts,react,nodejs,express,mongodb,redux,zustand,reactquery,tailwind,sass,vite,vitest,figma,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,npm,yarn,postman,vscode,nginx,netlify,vercel,firebase,heroku,aws,linux,windows,ubuntu)](https://skillicons.dev)
+
 ### GitHub Stats
 
 <p align="center">
